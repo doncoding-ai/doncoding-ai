@@ -30,7 +30,7 @@ Machine Learning: From predictive modeling to natural language processing, I pos
 Let's Collaborate!
 If you have an exciting project related to SEO data analysis, captivating data visualizations, or cutting-edge machine learning, I would love to collaborate with you. Feel free to reach out to me at boomd-link@gmail.com. Together, we can bring your ideas to life!
 
-Connect with me on LinkedIn: LinkedIn Profile
+Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/elito0905/"><button>LinkedIn Profile</button></a>
 
 Let's embark on an exciting journey of innovation and discovery!
 <!---
