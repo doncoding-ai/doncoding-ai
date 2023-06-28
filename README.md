@@ -19,36 +19,37 @@ I thrive in collaborative environments and excel at working closely with teams t
 
 <h2>📩 Let's Connect!</h2>
 Ready to leverage the power of data analysis, data visualization, machine learning, and full-stack development to drive your business forward? Let's connect and explore how we can work together to turn your data into a catalyst for success. Feel free to reach out to me at boomd-link@gmail.com, and let's start the conversation!
+
+
 ## 🌏 **CONNECT WITH ME**
 
 <a href="https://instagram.com/don_elito?igshid=ZDc4ODBmNjlmNQ=="> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://www.youtube.com/@codingstella"> 
+<a href="https://www.youtube.com/channel/UC-awr2ZahVgm2zsm70fzfLA"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
-<!-- <a href="mailto:codingstella@gmail.com"> 
+<!-- <a href="mailto:elito1236@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a> -->
-<!-- <a href="https://www.github.com/codingstella"> 
+<!-- <a href="https://www.github.com/doncoding-ai"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a> -->
-<!-- <a href="https://twitter.com/codingstellaa"> 
+<!-- <a href="https://twitter.com/Don_elito"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a> -->
-<a href="https://www.facebook.com/profile.php?=100087370156118"> 
+<a href="https://www.facebook.com/elijah.ndeto.3/"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a>
-<!--<a  href="https://www.linkedin.com/company/hi-coders/">
+<a  href="https://www.linkedin.com/in/elito0905/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
-</a>-->
+</a>
 <a href="https://codepen.io/codingstella"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a>
 <br />
 #dataanalysis #datavisualization #machinelearning #fullstackdevelopment #datascience
 
-Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/elito0905/"><button>LinkedIn Profile</button></a>
 
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doncoding-ai&show_icons=true&locale=en" alt="doncoding-ai" /></p>
