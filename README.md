@@ -1,134 +1,115 @@
-<h1>👋 Hi, I'm <strong>Elijah Ndeto</strong></h1>
-<h2>Data Engineer • Data Architect • Cloud Solutions Builder • Full-Stack Developer</h2>
+<div align="center" style="font-family: 'Inter', sans-serif; color: #e5e5e5; background-color: #0d0d0d; padding: 40px; border-radius: 12px;">
 
-<p>
-  I design, build, and optimize <strong>end-to-end data systems</strong> that turn raw information into business intelligence.
-  With strong experience in <strong>Azure, SQL, Databricks, Spark, and Data Modeling</strong>, 
-  I help teams scale analytics, automate workflows, and unlock data-driven insights.
-</p>
+  <h1 style="font-size: 48px; margin-bottom: 10px; color: #00e5ff;">
+    🚀 Elijah Ndeto — Data Engineer
+  </h1>
 
-<hr>
+  <p style="font-size: 20px; max-width: 700px; line-height: 1.6;">
+    Designing scalable data architectures, building automated pipelines, and engineering reliable systems.
+    Blending <strong>data modeling</strong>, <strong>cloud engineering</strong>, and <strong>analytics</strong> into robust enterprise-grade solutions.
+  </p>
 
-<h2>🚀 Data Engineering & Architecture</h2>
-<ul>
-  <li>Architecting <strong>high-performance ETL/ELT pipelines</strong> using ADF, Databricks & Spark</li>
-  <li>Designing <strong>enterprise-grade data models</strong> (3NF, Star Schema, Data Vault)</li>
-  <li>Developing <strong>data lakes & lakehouses</strong> with Azure Synapse & Delta Lake</li>
-  <li>Optimizing storage, compute & indexing for <strong>performance and cost efficiency</strong></li>
-  <li>Implementing <strong>data governance, lineage, metadata, and quality frameworks</strong></li>
-  <li>Building <strong>end-to-end cloud integrations</strong> and automated orchestration</li>
-</ul>
+  <br>
 
-<hr>
+  <img src="https://img.shields.io/badge/Data%20Engineer-%2300e5ff.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-%230089b5.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%23e673ff.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure-%230072c6.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-<h2>🛠️ Tech Stack & Tools</h2>
+</div>
 
-<p><strong>Languages:</strong> Python, SQL, JavaScript</p>
-<p><strong>Databases:</strong> SQL Server, PostgreSQL, Snowflake, Oracle</p>
-<p><strong>Cloud & Big Data:</strong> Azure Data Factory, Azure Synapse, Databricks, Spark, ADLS</p>
-<p><strong>Modeling & Architecture:</strong> ERWIN, PowerDesigner, IBM Data Architect, Dimensional Modeling, Data Vault, MDM</p>
-<p><strong>Visualization:</strong> Power BI, Tableau</p>
-<p><strong>Full-Stack Development:</strong> React, HTML, CSS, JavaScript, Flask, Django, Node.js</p>
+---
 
-<hr>
+<br>
 
-<h2>🧩 Core Engineering Strengths</h2>
+## <span style="color:#00e5ff;">🌐 About Me</span>
 
-<ul>
-  <li><strong>Data Modeling:</strong> Clean, scalable schemas for analytics</li>
-  <li><strong>Pipeline Engineering:</strong> Distributed ETL/ELT, automation, orchestration</li>
-  <li><strong>Cloud Architecture:</strong> Azure-native, secure, optimized solutions</li>
-  <li><strong>Performance Optimization:</strong> Indexing, partitioning, Spark tuning</li>
-  <li><strong>Systems Design:</strong> Modular, reliable, observable architectures</li>
-  <li><strong>Software Engineering:</strong> CI/CD, Git workflows, documentation</li>
-</ul>
+I am a **Data Engineer & Data Modeller** with strong experience in:
 
-<hr>
+- Building **ETL/ELT workflows**, batch + streaming  
+- Designing efficient **data models & data warehouse architectures**  
+- Implementing **Master Data Management (MDM)** + governance  
+- Managing relational + distributed databases  
+- Developing scalable backend & analytics integrations  
 
-<h2>🧱 Technical Focus Areas</h2>
+My work blends **engineering precision** with **creative problem-solving**, ensuring that data systems are fast, clean, maintainable, and enterprise-ready.
 
-<h3>🔹 Modern Data Stack</h3>
-<ul>
-  <li>Lakehouse architectures (Bronze → Silver → Gold)</li>
-  <li>Delta Lake ACID transactions</li>
-  <li>Schema evolution & CDC</li>
-  <li>Purview data governance</li>
-  <li>Metadata-driven frameworks</li>
-</ul>
+---
 
-<h3>🔹 Applied Engineering</h3>
-<ul>
-  <li>Incremental ETL/ELT</li>
-  <li>Change Data Capture strategies</li>
-  <li>PySpark distributed processing</li>
-  <li>Serverless patterns</li>
-</ul>
+## <span style="color:#00e5ff;">🛠️ Technical Skills</span>
 
-<h3>🔹 Architectural Thinking</h3>
-<ul>
-  <li>Scalability & system patterns</li>
-  <li>Data mesh considerations</li>
-  <li>Enterprise workflow design</li>
-</ul>
+### **Languages**
+- Python, SQL, Bash, JavaScript, Golang (working knowledge)
 
-<hr>
+### **Cloud & Platforms**
+- Azure (ADF, Data Lake, Azure SQL, Databricks)  
+- AWS S3 (familiar)  
+- On-prem relational servers (Postgres, MSSQL)
 
-<h2>🏗️ Full-Stack Engineering</h2>
-<p>Because great data needs great interfaces:</p>
-<ul>
-  <li>Frontend dashboards & portals using <strong>React</strong></li>
-  <li>Backend APIs using <strong>Flask, Django, Node.js</strong></li>
-  <li>Database-integrated full-stack analytics solutions</li>
-</ul>
+### **Data Engineering**
+- ETL/ELT pipeline automation  
+- Delta Lake, Lakehouse design  
+- Data modelling (3NF, Star Schema, Data Vault)  
+- Workflow orchestration (Airflow, ADF)  
+- Streaming with Spark Structured Streaming  
+- REST API integrations
 
-<hr>
+### **Tools & Tech**
+- Git & GitHub  
+- Docker  
+- dbt (foundation)  
+- Pandas, PySpark  
+- Power BI & Apache Superset  
 
-<h2>🌍 Let’s Collaborate</h2>
-<p>I’m open to opportunities in:</p>
-<ul>
-  <li>Data Engineering</li>
-  <li>Data Architecture</li>
-  <li>Cloud Engineering</li>
-  <li>Analytics Engineering</li>
-  <li>Full-Stack + Data Hybrid Roles</li>
-</ul>
+---
 
-<hr>
+## <span style="color:#00e5ff;">🏗️ Featured Engineering Projects</span>
 
-<h2>📫 Connect With Me</h2>
+### 🔹 **Integrated Reporting Data Warehouse**
+**Role:** Lead Solution Architect  
+- Designed an enterprise data warehouse for a health insurance organization  
+- Automated ingestion pipelines powering BI dashboards  
+- Improved data reliability & reporting accuracy across departments  
 
-<p>
-  <a href="https://www.linkedin.com/in/elito0905/">
-    <img src="https://img.shields.io/badge/LinkedIn-Elijah%20Ndeto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:elito1236@gmail.com">
-    <img src="https://img.shields.io/badge/Email-elito1236%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/elijah.ndeto.3/">
-    <img src="https://img.shields.io/badge/Facebook-Elijah%20Ndeto-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+---
 
-<hr>
+### 🔹 **Dynamic ETL Pipeline System**
+**Role:** Data Engineer**  
+- Python-based modular ETL engine with metadata-driven configs  
+- 99% reduction in manual intervention  
+- Auto-data profiling, validation, and schema checks  
 
-<h2>📊 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=doncoding-ai&show_icons=true&theme=radical" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doncoding-ai&theme=radical" />
-</p>
+---
 
-<hr>
+### 🔹 **MDM-Driven Customer 360 Framework**
+- Created golden customer profiles using MDM principles  
+- Implemented deduplication & survivorship rules  
+- Enabled clean analytics and regulatory reporting  
 
-<h2>🏆 GitHub Trophies</h2>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=doncoding-ai&theme=dracula" />
-</p>
+---
 
-<hr>
+## <span style="color:#00e5ff;">📚 Personal Engineering Philosophy</span>
 
-<p style="font-style: italic; font-size: 18px;">
-  ✨ “Data isn’t just numbers — it’s the story behind every decision.”  
-  Let’s build the future of <strong>data-driven systems</strong> together. ✨
-</p>
+I build systems that are:
+
+- **Scalable** — because data always grows  
+- **Maintainable** — because teams need to evolve  
+- **Reliable** — because business decisions depend on truth  
+- **Beautifully structured** — because architecture *is* art  
+
+---
+
+## <span style="color:#00e5ff;">✨ Interests</span>
+
+- Creative writing (poetry, story worlds, character arcs)  
+- Music, fashion, film ideation  
+- Finance & mental-health advocacy  
+- Tech systems, automation, and digital minimalism  
+
+---
+
+<div align="center" style="background:#0d0d0d; padding:20px; border-radius:10px; margin-top:50px;">
+  <h2 style="color:#00e5ff;">📬 Contact</h2>
+  <p style="font-size:18px;">Let’s build something amazing.</p>
+  <a href="mailto:elijahndeto@gmail.com" style="color:#00e5ff; font-size:20px;">📧 elijahndeto@gmail.com</a>
+</div>
