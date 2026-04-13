@@ -1,115 +1,118 @@
 <div align="center" style="font-family: 'Inter', sans-serif; color: #e5e5e5; background-color: #0d0d0d; padding: 40px; border-radius: 12px;">
 
   <h1 style="font-size: 48px; margin-bottom: 10px; color: #00e5ff;">
-    🚀 Elijah Ndeto — Data Engineer
+    🚀 Elijah Ndeto — Data Engineer & Data Architect
   </h1>
 
-  <p style="font-size: 20px; max-width: 700px; line-height: 1.6;">
-    Designing scalable data architectures, building automated pipelines, and engineering reliable systems.
-    Blending <strong>data modeling</strong>, <strong>cloud engineering</strong>, and <strong>analytics</strong> into robust enterprise-grade solutions.
+  <p style="font-size: 20px; max-width: 720px; line-height: 1.6;">
+    I design and build <strong>scalable data platforms</strong>, enabling reliable data pipelines, 
+    modern data architectures, and business-ready analytics systems.  
+    My focus is on transforming complex data ecosystems into <strong>clean, governed, and production-grade solutions</strong>.
   </p>
 
   <br>
 
-  <img src="https://img.shields.io/badge/Data%20Engineer-%2300e5ff.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-%230089b5.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%23e673ff.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Azure-%230072c6.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-%2300e5ff.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Architecture-%23e673ff.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Platforms-%230089b5.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python%20%7C%20SQL-%230072c6.svg?&style=for-the-badge" />
 
 </div>
 
 ---
 
-<br>
+## 🌐 About Me
 
-## <span style="color:#00e5ff;">🌐 About Me</span>
+I am a **Data Engineer and Data Architect** specializing in building **end-to-end data platforms**, from ingestion and modeling to analytics and reporting.
 
-I am a **Data Engineer & Data Modeller** with strong experience in:
+My experience spans:
+- **Multi-source data integration (10+ systems)**
+- **Enterprise data warehousing & lakehouse architectures**
+- **Cloud migration and modernization initiatives**
+- **Data governance, quality, and master data management**
 
-- Building **ETL/ELT workflows**, batch + streaming  
-- Designing efficient **data models & data warehouse architectures**  
-- Implementing **Master Data Management (MDM)** + governance  
-- Managing relational + distributed databases  
-- Developing scalable backend & analytics integrations  
-
-My work blends **engineering precision** with **creative problem-solving**, ensuring that data systems are fast, clean, maintainable, and enterprise-ready.
+I work across the full data lifecycle — designing systems that are not only scalable, but also **trusted, maintainable, and aligned with business outcomes**.
 
 ---
 
-## <span style="color:#00e5ff;">🛠️ Technical Skills</span>
+## 🧠 Core Capabilities
 
-### **Languages**
-- Python, SQL, Bash, JavaScript, Golang (working knowledge)
-
-### **Cloud & Platforms**
-- Azure (ADF, Data Lake, Azure SQL, Databricks)  
-- AWS S3 (familiar)  
-- On-prem relational servers (Postgres, MSSQL)
-
-### **Data Engineering**
-- ETL/ELT pipeline automation  
-- Delta Lake, Lakehouse design  
-- Data modelling (3NF, Star Schema, Data Vault)  
-- Workflow orchestration (Airflow, ADF)  
-- Streaming with Spark Structured Streaming  
-- REST API integrations
-
-### **Tools & Tech**
-- Git & GitHub  
-- Docker  
-- dbt (foundation)  
-- Pandas, PySpark  
-- Power BI & Apache Superset  
+- **Data Engineering** — ELT/ETL pipelines, batch & streaming architectures  
+- **Data Architecture** — Warehouse design, lakehouse, dimensional modeling, data vault  
+- **Cloud Platforms** — GCP, Snowflake, Databricks, Azure  
+- **Data Modeling** — 3NF, Star Schema, Data Vault, CIM frameworks  
+- **Data Governance** — MDM, data quality, validation frameworks  
+- **Analytics Enablement** — BI-ready datasets, reporting layers, feature engineering  
 
 ---
 
-## <span style="color:#00e5ff;">🏗️ Featured Engineering Projects</span>
+## 🛠️ Technical Stack
 
-### 🔹 **Integrated Reporting Data Warehouse**
-**Role:** Lead Solution Architect  
-- Designed an enterprise data warehouse for a health insurance organization  
-- Automated ingestion pipelines powering BI dashboards  
-- Improved data reliability & reporting accuracy across departments  
+**Languages:**  
+Python, SQL, Bash, JavaScript  
 
----
+**Data & Processing:**  
+PySpark, Pandas, Spark SQL, Delta Lake  
 
-### 🔹 **Dynamic ETL Pipeline System**
-**Role:** Data Engineer**  
-- Python-based modular ETL engine with metadata-driven configs  
-- 99% reduction in manual intervention  
-- Auto-data profiling, validation, and schema checks  
+**Cloud & Platforms:**  
+GCP (BigQuery, Cloud Run, GCS, Firestore), Snowflake, Databricks, Azure  
+
+**Tools & Ecosystem:**  
+Git, Docker, dbt, Airflow, REST APIs  
 
 ---
 
-### 🔹 **MDM-Driven Customer 360 Framework**
-- Created golden customer profiles using MDM principles  
-- Implemented deduplication & survivorship rules  
-- Enabled clean analytics and regulatory reporting  
+## 🏗️ Featured Data Engineering Projects
+
+### 🔹 Cloud Data Platform (Azure End-to-End Pipeline)
+- Designed and implemented a scalable data pipeline using Azure Data Factory, Data Lake, Databricks, and Synapse  
+- Enabled end-to-end data flow from ingestion to analytics and BI dashboards  
+- Demonstrates modern cloud data architecture and big data processing  
 
 ---
 
-## <span style="color:#00e5ff;">📚 Personal Engineering Philosophy</span>
-
-I build systems that are:
-
-- **Scalable** — because data always grows  
-- **Maintainable** — because teams need to evolve  
-- **Reliable** — because business decisions depend on truth  
-- **Beautifully structured** — because architecture *is* art  
+### 🔹 Production-Style Data Pipeline (SFTP → API)
+- Built a modular data pipeline that ingests, processes, and exposes data via a secure API  
+- Supports filtering, pagination, and structured data access for downstream systems  
+- Reflects real-world backend + data engineering integration patterns  
 
 ---
 
-## <span style="color:#00e5ff;">✨ Interests</span>
+### 🔹 Modern Data Stack Project (dbt + Snowflake)
+- Developed a transformation pipeline using dbt with Snowflake as the warehouse  
+- Implemented staging, dimensional models, and enriched fact tables  
+- Designed for scalable analytics and BI consumption  
 
-- Creative writing (poetry, story worlds, character arcs)  
-- Music, fashion, film ideation  
-- Finance & mental-health advocacy  
-- Tech systems, automation, and digital minimalism  
+---
+
+### 🔹 API-Driven ETL Pipeline (Crypto Data)
+- Built an automated ETL pipeline integrating data from external APIs into a structured database  
+- Implemented transformations for analytics-ready datasets  
+- Demonstrates API integration and pipeline automation
+  
+---
+
+## 🧩 Engineering Philosophy
+
+I build data systems that are:
+
+- **Scalable** — designed for growth and evolving data volumes  
+- **Reliable** — trusted pipelines with strong validation and governance  
+- **Maintainable** — modular, testable, and easy to extend  
+- **Purpose-driven** — aligned with real business outcomes  
+
+---
+
+## ✨ Beyond Data
+
+- Creative writing, content creation & storytelling 
+- Finance, systems thinking, and long-term strategy  
+- Technology, automation, and digital ecosystems  
 
 ---
 
 <div align="center" style="background:#0d0d0d; padding:20px; border-radius:10px; margin-top:50px;">
   <h2 style="color:#00e5ff;">📬 Contact</h2>
-  <p style="font-size:18px;">Let’s build something amazing.</p>
+  <p style="font-size:18px;">Let’s build scalable data systems.</p>
   <a href="mailto:elijahndeto@gmail.com" style="color:#00e5ff; font-size:20px;">📧 elijahndeto@gmail.com</a>
 </div>
